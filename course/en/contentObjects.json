@@ -1,0 +1,24 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/be470020848ed617d92d832679da7b45a19059ec.png"
+    },
+    "_id": "583acdcf4d7b7e82691e485e",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Why we measure",
+    "title": "Why we measure",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

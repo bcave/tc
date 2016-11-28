@@ -1,0 +1,701 @@
+[
+  {
+    "_id": "583acdcf4d7b7e82691e4898",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e4885",
+    "_type": "component",
+    "body": "<p>Measurement of your startups performance is a mindset.&nbsp;</p>\n\n<p>When&nbsp;your company tries out a new feature or marketing tactic, you are conducting an experiment. First you make an assumption about what your new thing will do. Then you do it.</p>\n\n<p>For the experiment to be worthwhile, we need to closely monitor what we do and the results. This monitoring is how we decide if our assumptions were valid or whether it&#39;s time to go back to the drawing board.</p>\n\n<p>This approach is called &#39;hypothesis driven thinking&#39;. Our hypothesis is what we assume will happen. Our measurements let us know if we were right.</p>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "The measuring mindset",
+    "title": "The measuring mindset",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e489b",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e486b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "small": "course/en/assets/36ffe08599a5405fa0f300777ee0a615e5cb9a1a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e489c",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e486e",
+    "_type": "component",
+    "body": "<p>Lean Analytics tells us there are five stages every startup goes through. If your startup was spending most of its time trying to understand the customer and what they need, which of the following stages would it most likely be in?</p>\n",
+    "displayTitle": "Recognising where your business is",
+    "title": "Recognising where your business is",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "revenue",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "stickiness",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "empathy",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>In the empathy stage, your customers are coming to you to solve a&nbsp;problem. What takes up your days is understanding their frustrations, world view and ideal experience.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>In the empathy stage, your customers are coming to you to solve a&nbsp;problem. What takes up your days is understanding their frustrations, world view and ideal experience.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e489d",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e486f",
+    "_type": "component",
+    "body": "<p>When making decisions, it&rsquo;s important to use both personal experience &amp; insight and hard data and evidence. What is this approach called?</p>\n",
+    "displayTitle": "Knowing how to make the best decisions",
+    "title": "Knowing how to make the best decisions",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "data blind",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "data driven",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "data informed",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>Data informed decisions balance personal experience &amp; insight and hard data and evidence.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>Data informed decisions balance personal experience &amp; insight and hard data and evidence.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e489e",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e4871",
+    "_type": "component",
+    "body": "<p>When it comes to measurements, companies divide into one of two groups. What are the names of these groups?</p>\n",
+    "displayTitle": "Measuring the right things",
+    "title": "Measuring the right things",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "search mode and optimise mode",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "market mode and product mode",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "plant mode and beast mode",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p>\n\n<p>When it comes to measurement, every startup is either in search mode or optimise mode.</p>\n",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p>\n\n<p>When it comes to measurement, every startup is either in search mode or optimise mode.</p>\n",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48a0",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e4871",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "small": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48a1",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e486e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eca25e280e51261ccf4ca7ff17215e79f6554f7d.png",
+      "small": "course/en/assets/eca25e280e51261ccf4ca7ff17215e79f6554f7d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48a2",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e486f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
+      "small": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48a4",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e486d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48c0",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e486c",
+    "_type": "component",
+    "body": "<p>The good news is that for the purposes of measurement, everyone startup fits into one of two groups. The first group is those in &#39;search mode&#39; including any at the empathy, stickiness or virality stages. The second group is those in &#39;optimise mode&#39; including revenue and growth stage businesses.</p>\n\n<p>To learn more about what to measure in search mode and optimise mode businesses, explore the boxes below.</p>\n",
+    "displayTitle": "So what should a startup at my stage be measuring?",
+    "title": "So what should a startup at my stage be measuring?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Search mode",
+        "body": "<p>For startups in search mode, you need to answer the question&nbsp;<em>&#39;is what i build useful?&#39;. </em></p>\n\n<p>You are looking for any data that gives you an insight into how users feel about using your product.</p>\n\n<p>Gathering these insights will give you an inside track on what your customers acre most about and how you can get your products as close as possible to their perfect world.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Optimise mode",
+        "body": "<p>For startups in the optimise mode, you need to answer the questions&nbsp;<em>&#39;how could i make this better?&#39;</em></p>\n\n<p>Unlike your early-stage friends in search mode, you have proof that the market likes your product. You just need to figure out how to reach the most people or make the most money or retain people for longer. Whatever floats your particular business boat!</p>\n\n<p>You will be searching for data on performance, how different tactics impact your goal and the best use of your resources over time.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48c1",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e486c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "small": "course/en/assets/3a5b24358dade34b6047a1f80c91efd57ad0f0b5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48d1",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e4869",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
+      "small": "course/en/assets/2a42768ff03abf1a85bed1ac865496094550d05d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48d2",
+    "_layout": "right",
+    "_parentId": "583acdcf4d7b7e82691e4882",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48d4",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e4885",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
+      "small": "course/en/assets/0a55f8fb2430d3fb5c1f0d42ee4102cd6d4b5865.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48db",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e4882",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to measure?",
+    "title": "Are you ready to measure?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e4899",
+    "_layout": "full",
+    "_parentId": "583acdcf4d7b7e82691e486a",
+    "_type": "component",
+    "body": "<p>To measure performance properly, we need to know what we are looking for. Not all startups are alike, and the stage your business is at makes a big difference to what you can measure.</p>\n\n<p>You can place your organisation using the 5 stages outlined in <a href=\"https://leanstack.com/lean-analytics-the-one-metric-that-matters-and-other-provocations/\">Lean Analytics</a>. Discover more about each phase below.</p>\n",
+    "displayTitle": "Startup stages: a spotters guide",
+    "title": "Startup stages: a spotters guide",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Empathy",
+        "body": "<p>In the empathy stage, you need to figure out exactly what the customer wants and how to get it to them.&nbsp;</p>\n\n<p>Your customers are coming to you to solve a&nbsp;problem. What takes up your days is understanding their frustrations, world view and ideal experience.</p>\n\n<p>Still looking for those elusive first customers? That&#39;s a sure sign you&#39;re in the empathy stage!</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/29ee08e77301fecc8894a8b1ccc9ee6f7a83d7ca.png",
+          "alt": ""
+        },
+        "strapline": "Empathy"
+      },
+      {
+        "title": "Stickiness",
+        "body": "<p>In the stickiness stage, you&#39;ve got some customers. They are willing to use your service and it seems to work for them. In other words they are sticking around!</p>\n\n<p>Your days are consumed with creating the product or experience that keeps those users feeling understood and satisfied.</p>\n\n<p>Still trying to nail those features that make users eyes light up? Sounds like you are in the stickiness stage!</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/f47393b9bd20f6e421d25cedd6ffd0d7d4d24f39.png",
+          "alt": ""
+        },
+        "strapline": "Stickiness"
+      },
+      {
+        "title": "Virality",
+        "body": "<p>In the virality stage, your customers have started to love you. In fast they love you so much, they are telling their friends. Your user base is beginning to grow as some of those friends start to use your service for themselves.</p>\n\n<p>You spend your days managing the growth in users, looking for new ways to encourage them to spread the word and making sure you can handle the new people.</p>\n\n<p>Trying to tempt your users to tell a friend? Chances are you are in the Virality stage!</p>\n\n<p>&nbsp;</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/c76e953b722462498b1da45a7a926775d98c92cd.png",
+          "alt": ""
+        },
+        "strapline": "Virality"
+      },
+      {
+        "title": "Revenue",
+        "body": "<p>In the revenue stage, you have actually found a way to convince users to hand over their hard-earned money for your work. Users feel good about the idea of paying for the experience and your balance sheets are looking healthy.</p>\n\n<p>You spend your days finding the right value proposition to make customers happy to pay and happier to stay.</p>\n\n<p>Got a product people are paying for? You&#39;re probably in the Revenue stage!</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/938032f8502e086c2db35d514c066cfa718da32b.png",
+          "alt": ""
+        },
+        "strapline": "Revenue"
+      },
+      {
+        "title": "Scale",
+        "body": "<p>In the scale stage, your revenues are growing as your product lines and user base expand. People are happy and the service is stable.</p>\n\n<p>You spend your days thinking about the next move for the service or planning your exit from the business.</p>\n\n<p>Business stable and itching for the next move? That sounds like you&#39;re in the Scale stage!</p>\n",
+        "_graphic": {
+          "src": "course/en/assets/be470020848ed617d92d832679da7b45a19059ec.png",
+          "alt": ""
+        },
+        "strapline": "Scale"
+      }
+    ]
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e4897",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e4869",
+    "_type": "component",
+    "body": "<p>Understanding what works and what doesn&#39;t is essential for any startup. If you can&#39;t understand why some of you great ideas fall flat while others really hit home, how can you really nail that killer product?</p>\n\n<p>But how can you make sure you are measuring the right things for your business? None of us wants to waste time gathering data that never gets used. That&#39;s what this first module is all about. You&#39;ll get the basics of why measuring helps your business succeed together with a tool to help you decide what to measure based on where you are.</p>\n\n<p>By the end of this module, you will be able to:</p>\n\n<ul>\n\t<li>Explain why we measure</li>\n\t<li>Understand how the stage your company is in defines&nbsp;what you can measure</li>\n\t<li>Relate the concept of&nbsp;a data informed mentality to your own business</li>\n</ul>\n\n<p>&nbsp;</p>\n",
+    "displayTitle": "How can measuring your business help you be more successful?",
+    "title": "How can measuring your business help you be more successful?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "583ad8684d7b7e82691e4a96",
+    "_layout": "full",
+    "_parentId": "583ad8554d7b7e82691e4a91",
+    "_type": "component",
+    "body": "<p>So why is measuring important for your business?</p>\n\n<p>Devin Hunt, serial entrepreneur and <a href=\"http://www.foundercentric.com/team\">Founder Centric product guru</a>&nbsp;gives us his perspective.</p>\n",
+    "displayTitle": "Why should we measure?",
+    "title": "Why should we measure?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/1f97e064a337b619a5c54121ede36b28ee198798.mp4",
+      "ogv": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/eea49ded41971d727665845bb1af5c6a4649b63b.jpeg",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e489a",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e486b",
+    "_type": "component",
+    "body": "<p>Measuring is a way to see how well your hypotheses about what a new feature or tactic will do for the business works.&nbsp;</p>\n\n<p>To make sure you can test though, we need to overcome the conflict between what the measurements are telling us and our own feelings. If our feelings win, we become &#39;data blind&#39; and ignore our measurements. If our measurements win, we become &#39;data driven&#39; and lose that crucial judgement.&nbsp;</p>\n\n<p>Below are the three stages of integrating measurements. Read them carefully to make sure you don&#39;t fall into either trap...</p>\n",
+    "displayTitle": "From data blind to data informed",
+    "title": "From data blind to data informed",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Data blind",
+        "body": "<p>When we are data blind, we ignore measurements in favour of our own hunch. Have you ever made a bad call based on your gut feeling even though the data was telling you a different story?</p>\n\n<p>Avoid this pitfall by making your measurements a serious part of every decision.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data driven",
+        "body": "<p>When we are data driven, we become a slave to our measurements. Remember the video example of Google <a href=\"https://gigaom.com/2009/07/09/when-it-comes-to-links-color-matters/\">choosing their colour blue</a> based solely on number of clicks?</p>\n\n<p>When you take a data driven mentality you risk ignoring your own judgement. This can mean you miss that market changing idea that wasn&#39;t supported by the data.</p>\n\n<p>Avoid this pitfall by always bringing a critical mindset to your measurements.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data informed",
+        "body": "<p>When we are data informed, we are slave neither to our judgement nor our measurements. You know that measurements are there to advise you and&nbsp;help you decide wisely, but not to overrule your own good judgement.</p>\n\n<p>Balance measurement and intuition for a happier, more productive decision process.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "583acdcf4d7b7e82691e48a3",
+    "_layout": "left",
+    "_parentId": "583acdcf4d7b7e82691e486d",
+    "_type": "component",
+    "body": "<p>Measurement is important to any startup because it lets you test your assumptions, experiment and ultimately move to the next stage in your journey.</p>\n\n<p>Using your hypothesis-driven thinking to create new ideas and your data informed mentality to take decisions, you can make sure that measurement brings real benefit to your business</p>\n\n<p>In this module you have learned how to:</p>\n\n<ul>\n\t<li>Explain why we measure</li>\n\t<li>Understand how the stage your company is in defines&nbsp;what you can measure</li>\n\t<li>Relate the concept of&nbsp;a data informed mentality to your own business</li>\n</ul>\n\n<p>Ready for more? You can jump right into the next module if you&#39;re ready.</p>\n",
+    "displayTitle": "Measure often, measure well",
+    "title": "Measure often, measure well",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]
